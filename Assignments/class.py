@@ -8,3 +8,4 @@ name = input("whats your name" )
 dish = input("what is your best dish?")
 
 print( name + " " + "likes" + dish)
+print ("Hello world")
