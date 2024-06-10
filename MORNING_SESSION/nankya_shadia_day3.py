@@ -74,6 +74,8 @@ print(list_of_squares)
 # Example 2:
 # create a list of even squares in the range of 20
 
+# 
+
 list_of_even_squares=[x**2 for x in range(20) if (x %2==0)]
 
     
