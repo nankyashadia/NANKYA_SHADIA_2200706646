@@ -100,6 +100,6 @@ print(student_dict)
 print()
 
 
-# remove key and value from the dictionary
+
 
 
