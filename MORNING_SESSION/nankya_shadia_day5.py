@@ -99,7 +99,9 @@ def paul_function(a, b, **kwargs):
     for key, value in kwargs.items():
         print(f"{key}: {value}")
 
-# Example usage:
+# Example usage:Another 
+
 paul_function(1, 2, city="New York", job="Engineer")
+
 
 
