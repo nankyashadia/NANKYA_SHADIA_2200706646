@@ -1,0 +1,16 @@
+def convert_to_integer():
+    try:
+        input_value = input("Enter string value: ")
+        number = int(input_value)
+    except ValueError as valueError:
+        print("Invalid number input! Please enter a valid number.")
+        print(f"ValueError: {valueError}")
+    except TypeError as typeError:
+        print("Please enter a string")
+        print(f"TypeError: {typeError}")
+    else:
+        print(f"Result is {number}")
+
+convert_to_integer()
+
+# convert_to_integer()
