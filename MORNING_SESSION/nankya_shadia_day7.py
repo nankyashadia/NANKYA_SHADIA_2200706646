@@ -8,9 +8,11 @@
 """_summary
     --description
     Inheritance and method overriding allows a class(child class)to inherit attributes and methods from another class(parent class)
-    key concepts
-    Base class
-    Base
+    Key concepts
+    Base class (parent class): Class whose properties are inherited by another class.
+    Derived class (child class): Class that inherits attributes and properties from another base class.
+
+
     """
 #     #Example 1:Syntax create a class where a dod inherits from animal and overrides with the speak method
 
